@@ -1,0 +1,12 @@
+{
+    "name": "node_starter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "nodemon dist/index.js"
+    },
+    "author": "Jose Carrillo",
+    "license": "ISC"
+}
